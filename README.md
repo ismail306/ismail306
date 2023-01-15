@@ -13,10 +13,11 @@
 [<img src="https://img.icons8.com/color/50/000000/instagram-new--v1.png" alt='linkedin' height='40'>](#) 
 [<img src="https://img.icons8.com/color/50/000000/skype.png" alt='skype' height='40'>](#)
 [<img src="https://img.icons8.com/color/50/000000/twitter--v1.png" alt='twitter' height='40'>](#)   
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismail306)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ismail306&show_icons=true)  
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ismail306&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismail306)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
