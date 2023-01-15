@@ -14,9 +14,9 @@
 [<img src="https://img.icons8.com/color/50/000000/skype.png" alt='skype' height='40'>](#)
 [<img src="https://img.icons8.com/color/50/000000/twitter--v1.png" alt='twitter' height='40'>](#)   
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismail306)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ismail306)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ismail306&show_icons=true)
+![My GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ismail306&show_icons=true)
 
 
 
