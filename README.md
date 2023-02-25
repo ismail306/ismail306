@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[<img src="https://img.icons8.com/color/48/000000/domain--v1.png" alt='linkedin' height='40'>](#)
+[<img src="https://img.icons8.com/color/48/000000/domain--v1.png" alt='linkedin' height='40'>](https://ismail-hossain.me)
 [<img src='https://img.icons8.com/color/50/000000/github.png' alt='github' height='40'>](https://github.com/ismail306)  [<img src="https://img.icons8.com/color/50/000000/linkedin.png" alt='linkedin' height='40'>](https://www.linkedin.com/in/ismail306/) 
 [<img src="https://img.icons8.com/color/50/000000/instagram-new--v1.png" alt='linkedin' height='40'>](#) 
 [<img src="https://img.icons8.com/color/50/000000/skype.png" alt='skype' height='40'>](#)
